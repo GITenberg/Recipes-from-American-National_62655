@@ -1,0 +1,23 @@
+_repo: Recipes-from-American-National_62655
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American National Insurance Company
+    gutenberg_agent_id: '51975'
+    url: http://www.gutenberg.org/2009/agents/51975
+    wikipedia: https://en.wikipedia.org/wiki/American_National_Insurance_Company
+description: ''
+gutenberg_issued: '2020-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- GITenberg
+title: Recipes from American National
+url: http://www.gutenberg.org/ebooks/62655
