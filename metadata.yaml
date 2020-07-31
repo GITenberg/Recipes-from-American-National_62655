@@ -1,5 +1,8 @@
 _repo: Recipes-from-American-National_62655
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62655-h/images/cover.jpg
 creator:
   author:
     agent_name: American National Insurance Company
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51975
     wikipedia: https://en.wikipedia.org/wiki/American_National_Insurance_Company
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62655#Recipes-from-American-National
 gutenberg_issued: '2020-07-15'
 gutenberg_type: Text
 identifiers:
